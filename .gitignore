@@ -1,0 +1,1 @@
+-e "*.pyc\n__pycache__/\ndb.sqlite3\n/staticfiles/\nmedia/\n.env\nvenv/\n.vscode/" 

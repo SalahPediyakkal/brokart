@@ -1,1 +1,10 @@
--e "*.pyc\n__pycache__/\ndb.sqlite3\n/staticfiles/\nmedia/\n.env\nvenv/\n.vscode/" 
+*.pyc
+__pycache__/
+db.sqlite3
+/staticfiles/
+/media/
+/.env
+venv/
+env/
+env2/
+.vscode/
